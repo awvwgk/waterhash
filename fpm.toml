@@ -1,0 +1,10 @@
+name = "waterhash"
+version = "0.1.0"
+license = "Unlicense"
+maintainer = ["@awvwgk"]
+author = ["Sebastian Ehlert"]
+description = "Fortran portation of the waterhash algorithm"
+copyright = "Public domain"
+
+[dev-dependencies]
+test-drive.git = "https://github.com/awvwgk/test-drive"
